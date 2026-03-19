@@ -1,6 +1,7 @@
 # Ứng dụng quản lý công việc học tập cho sinh viên
 
 **Mục tiêu:** Tạo ra sản phẩm quản lý học tập dựa vào mục tiêu học tập của sinh viên, tối ưu hóa trải nghiệm, thời gian học của người dùng.
+
 **Thành viên:**
 
 - 24122009 - Phan Thế Phong - Developer
