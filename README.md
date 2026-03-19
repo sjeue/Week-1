@@ -16,4 +16,8 @@
 - Tạo thời khóa biểu học tập
 - Nhắc nhở người dùng học tập theo thời gian cài đặt
 
-*Link Notion:* [https://www.notion.so/328714709b3780af83d9cbfee79d1905?v=328714709b37801a83de000cd2c6eff6&source=copy_link](https://www.notion.so/328714709b3780af83d9cbfee79d1905?v=328714709b37801a83de000cd2c6eff6&source=copy_link)
+*Link Notion:* 
+- [User stories](https://www.notion.so/328714709b37809f9e0bcb3a455f734f?v=328714709b37809fa1c7000c17ee3536)
+- [WBS (Work Breakdown Structure)](https://www.notion.so/328714709b378020a948dcf6db37efd1?v=328714709b3780c5a3d4000cace4e2f2&source=copy_link)
+- [Kanban Board](https://www.notion.so/Kanban-Task-Board-ad0714709b378357bd41018c8777981a)
+- [Task Tracking](https://www.notion.so/328714709b3780af83d9cbfee79d1905?v=328714709b37801a83de000cd2c6eff6)
