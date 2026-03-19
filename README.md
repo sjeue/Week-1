@@ -16,4 +16,4 @@
 - Tạo thời khóa biểu học tập
 - Nhắc nhở người dùng học tập theo thời gian cài đặt
 
-*Link Notion:* []
+*Link Notion:* [https://www.notion.so/328714709b3780af83d9cbfee79d1905?v=328714709b37801a83de000cd2c6eff6&source=copy_link](https://www.notion.so/328714709b3780af83d9cbfee79d1905?v=328714709b37801a83de000cd2c6eff6&source=copy_link)
